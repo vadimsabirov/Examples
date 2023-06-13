@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\bin\Debug\net6.0\Example008_TOCHKA.exe
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\bin\Debug\net6.0\Example008_TOCHKA.deps.json
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\bin\Debug\net6.0\Example008_TOCHKA.runtimeconfig.json
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\bin\Debug\net6.0\Example008_TOCHKA.dll
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\bin\Debug\net6.0\Example008_TOCHKA.pdb
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.dll
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\refint\Example008_TOCHKA.dll
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.pdb
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\Example008_TOCHKA.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Examples\Example008_TOCHKA\obj\Debug\net6.0\ref\Example008_TOCHKA.dll
