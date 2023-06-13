@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\bin\Debug\net6.0\Example005_MinMax.exe
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\bin\Debug\net6.0\Example005_MinMax.deps.json
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\bin\Debug\net6.0\Example005_MinMax.runtimeconfig.json
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\bin\Debug\net6.0\Example005_MinMax.dll
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\bin\Debug\net6.0\Example005_MinMax.pdb
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.dll
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\refint\Example005_MinMax.dll
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.pdb
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\Example005_MinMax.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Examples\Example005_MinMax\obj\Debug\net6.0\ref\Example005_MinMax.dll
