@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\Examples\Example06_If\bin\Debug\net6.0\Example06_If.exe
+C:\Users\Вадим\Desktop\Examples\Example06_If\bin\Debug\net6.0\Example06_If.deps.json
+C:\Users\Вадим\Desktop\Examples\Example06_If\bin\Debug\net6.0\Example06_If.runtimeconfig.json
+C:\Users\Вадим\Desktop\Examples\Example06_If\bin\Debug\net6.0\Example06_If.dll
+C:\Users\Вадим\Desktop\Examples\Example06_If\bin\Debug\net6.0\Example06_If.pdb
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.dll
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\refint\Example06_If.dll
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.pdb
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\Example06_If.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\Examples\Example06_If\obj\Debug\net6.0\ref\Example06_If.dll
